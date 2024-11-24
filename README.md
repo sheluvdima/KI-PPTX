@@ -1,4 +1,4 @@
-# Präsentation über KI
+# Präsentation Über KI
 
 # Vortragsmanuskript: Kuenstliche Intelligenz im Alltag
 ## [Folie 1: Titelfolie] (0:00-0:30)
@@ -172,3 +172,147 @@ Künstliche Intelligenz (KI) revolutioniert unseren Alltag und verändert die Ar
 ## Quellenangaben
 
 [Fußzeile mit akademischen Referenzen und Kontaktinformationen]
+
+# Prompts für deine KI
+# PowerPoint-Erstellungsprompts nach Folien
+
+## Folie 1: Titelfolie (0:00-0:30)
+```
+Erstelle eine moderne, aufmerksamkeitsstarke Titelfolie zum Thema "Künstliche Intelligenz im Alltag". 
+- Der Titel soll groß und gut lesbar sein
+- Verwende ein futuristisches aber nicht übertriebenes Design
+- Füge ein subtiles, abstraktes KI/Technologie-bezogenes Hintergrundbild oder -muster ein
+- Platziere unten rechts Platz für Namen und Datum
+- Farbschema: Verwende Blautöne als Hauptfarbe, da diese Professionalität und Technologie symbolisieren
+```
+
+## Folie 2: Definition & Alltagsbeispiele (0:30-2:00)
+```
+Erstelle eine zweigeteilte Folie:
+- Links: Einfache, verständliche Definition von KI mit der Metapher des "lernenden Schülers"
+- Rechts: 4-6 Icons/Illustrationen von Alltagsbeispielen für KI-Nutzung:
+  * Gesichtserkennung beim Smartphone
+  * Navigationssystem
+  * Spamfilter
+  * Musikempfehlungen
+- Verwende eine klare Hierarchie mit Überschrift und Unterpunkten
+- Füge subtile Animationen für das schrittweise Erscheinen der Beispiele ein
+```
+
+## Folie 3-4: Geschichte der KI (2:00-5:00)
+```
+Erstelle zwei zusammenhängende Folien zur KI-Geschichte:
+
+Folie 3:
+- Zentral: Horizontale Zeitleiste von 1950 bis heute
+- Wichtige Meilensteine als Punkte/Icons auf der Timeline markieren
+- Beginne mit Dartmouth-Konferenz 1956
+- Füge Bilder/Icons für wichtige Ereignisse ein
+
+Folie 4:
+- Verwende die Baum-Metapher visuell
+- Zeige "Winter" und "Frühling" der KI-Entwicklung
+- Stelle Expertensysteme der 80er und den Boom ab 2012 dar
+- Nutze organische Formen für den Baum, technische Icons für die Entwicklungen
+```
+
+## Folie 5-6: KI-Arten (5:00-9:00)
+```
+Erstelle zwei detaillierte Folien zu KI-Arten:
+
+Folie 5:
+- Zentral: Visualisierung des "KI-Werkzeugkastens"
+- Drei Hauptbereiche klar voneinander abgrenzen:
+  * Maschinelles Lernen
+  * Deep Learning
+  * Natürliche Sprachverarbeitung
+- Nutze Icons/Symbole für jede KI-Art
+- Füge kurze, prägnante Definitionen hinzu
+
+Folie 6:
+- Interaktives Bildvergleichs-Layout
+- Drei gleich große Bildfelder nebeneinander
+- Beschriftungen für: "Von Mensch gemalt", "KI-generiert", "Fotografie"
+- Platz für Publikumsabstimmung
+- Animierte Aufdeckung der richtigen Antworten
+```
+
+## Folie 7-8: Aktuelle Anwendungen (9:00-13:00)
+```
+Erstelle zwei anwendungsorientierte Folien:
+
+Folie 7:
+- Drei Hauptbereiche mit Icons/Visualisierungen:
+  * Medizin (Röntgenbild-Analyse)
+  * Automobilindustrie (selbstfahrende Autos)
+  * Umweltforschung (Drohnen/Amazonas)
+- Kurze Erfolgsbeispiele unter jedem Bereich
+- Animierte Infografiken wo sinnvoll
+
+Folie 8:
+- Fokus auf KI in der Kunst
+- Bildergalerie-Layout mit Beispielen:
+  * KI-generierte Musik (Notendarstellung)
+  * KI-Poesie
+  * KI-Kunstwerke
+- Interaktives Element für Publikumsdiskussion
+- Platz für ethische Fragestellung
+```
+
+## Folie 9-10: Herausforderungen (13:00-17:00)
+```
+Erstelle zwei problemorientierte Folien:
+
+Folie 9:
+- Hauptüberschrift: "Herausforderungen der KI"
+- Drei Kernthemen visuell darstellen:
+  * Datenschutz (Schloss/Schutzschild-Symbol)
+  * Arbeitsmarkt (Transformations-Grafik)
+  * Voreingenommenheit/Bias (ausgewogene Waage)
+- Verwende Warnsymbole dezent aber effektiv
+
+Folie 10:
+- Interaktives Layout für ethische Diskussion
+- Zentrale Frage groß dargestellt
+- Platz für Publikumsfeedback
+- 4-5 leere Felder für Live-Notizen
+- Beispiel des KI-Recruiting-Bias visualisieren
+```
+
+## Folie 11-12: Ausblick & Abschluss (17:00-20:00)
+```
+Erstelle zwei abschließende Folien:
+
+Folie 11:
+- Zukunftsorientiertes Design
+- Drei Hauptbereiche für Durchbrüche:
+  * Medizinische Forschung
+  * Energieeffizienz
+  * Mensch-Maschine-Interaktion
+- Optimistische aber realistische Visualisierungen
+- Zeitstrahl oder Roadmap in die Zukunft
+
+Folie 12:
+- Abschlussfolie mit Spiegelmetapher
+- Zentrale Message: "KI als Werkzeug zur Stärkung menschlicher Fähigkeiten"
+- Platz für Zukunftsvision-Diskussion
+- Kontaktinformationen
+- QR-Code für weiterführende Ressourcen
+```
+
+## Allgemeine Designrichtlinien für alle Folien:
+```
+- Konsistentes Farbschema durchgängig verwenden
+- Hauptfarbe: Professionelles Blau
+- Akzentfarben: Grün für positive Aspekte, Orange für Herausforderungen
+- Klare, gut lesbare Schriftart (z.B. Arial oder Calibri)
+- Überschriften: 32pt
+- Haupttext: 24pt
+- Minimaler Text, maximale Visualisierung
+- Einheitliche Iconsprache
+- Ausreichend Weißraum
+- Dezente Animationen nur wo sinnvoll
+- Foliennummerierung unten rechts
+- Logo falls vorhanden konsistent platzieren
+```
+
