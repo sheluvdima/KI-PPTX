@@ -173,7 +173,6 @@ Künstliche Intelligenz (KI) revolutioniert unseren Alltag und verändert die Ar
 
 [Fußzeile mit akademischen Referenzen und Kontaktinformationen]
 
-# Prompts für deine KI
 # PowerPoint-Erstellungsprompts nach Folien
 
 ## Folie 1: Titelfolie (0:00-0:30)
